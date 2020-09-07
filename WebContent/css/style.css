@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+body#login {
+	margin-top: 100px;
+}
+
+.fa-user {
+	content: "\f007";
+	font-family: 'Font Awesome 5 Free';
+	font-weight: 900;
+}
